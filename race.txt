@@ -1,3 +1,6 @@
+race 1
 race 2
+race 3
 race 4
+race 5
 race 6
